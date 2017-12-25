@@ -1,0 +1,43 @@
+/* add your CSS here */
+
+body {
+	font-size: 12px;
+}
+
+h3 {
+	font-size: 18px;
+}
+
+ul {
+	list-style: none;
+	padding-left: 0;
+}
+
+li span {
+	font-weight: bold;
+}
+
+#card {
+	display: inline-block;
+	border: 1px solid #b3b3b3;
+	box-shadow: 3px 3px 1px 0px rgba(96, 99, 96, 0.22);
+	padding:10px; 
+}
+
+#animal-info {
+	border: 1px solid #b3b3b3;
+	width: 278px;
+	padding: 10px;
+}
+
+#image {
+	width: 300px;
+	padding-top: 10px;
+	padding-bottom: 12px;
+}
+
+#interesting-fact {
+	font-style: italic;
+}
+
+
